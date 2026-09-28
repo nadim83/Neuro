@@ -1,0 +1,6 @@
+{
+  "name": "NutriRx - Clinical Diet Chart & Prescription Maker",
+  "description": "Professional clinical diet chart generator with meal timing schedules, macro targets, clinical guidelines, and high-resolution prescription-style PDF download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
